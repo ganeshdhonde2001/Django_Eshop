@@ -90,3 +90,23 @@ Cart Functionality - Part 2: Continue developing the cart functionality, enhanci
 
 Cart Functionality - Part 3: Complete the cart implementation by using filters to manage and display cart items efficiently.
 
+Cart Functionality - Part 4 | Quantity Design: Learn how to design and implement quantity controls in the shopping cart, allowing users to specify the quantity of products they want to purchase.
+
+Cart Functionality - Part 5 | Quantity Buttons: Explore how to add and style quantity buttons in the cart, enabling users to easily adjust the number of items.
+
+Cart Functionality - Part 6 | Showing Quantity: Understand how to display the selected quantity of products in the cart, ensuring users can see their choices.
+
+Cart Functionality - Part 7 | Quantity Plus Minus: Implement plus and minus buttons to allow users to increment or decrement the quantity of products directly from the cart.
+
+Return to Same Product After Adding to Cart: Learn how to redirect users back to the product page after they have added an item to their cart, enhancing the shopping experience.
+
+Showing and Hiding Navbar Links: Discover how to dynamically show or hide navigation bar links based on user actions or states, such as login status.
+
+Logout Functionality: Implement a logout feature that allows users to securely log out of their accounts in the e-shop application.
+
+Fetching Cart Products: Learn how to retrieve and display the products stored in a user's cart, ensuring that the cart reflects the user's selections accurately.
+
+Showing Products in Cart Page: Explore how to build and display a comprehensive cart page that shows all products added to the cart along with their details.
+
+Filter for Currency: Implement a currency filter to display prices in different currencies, enhancing the app's usability for a global audience.
+
