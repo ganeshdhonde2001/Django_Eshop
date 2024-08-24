@@ -29,3 +29,15 @@ Showing Table View in Admin Site - Discover how to display data in a tabular for
 Handling Request - Learn how to manage and respond to different types of HTTP requests in a Django application.
 
 Serving HTML Files - Understand the process of serving static HTML files in a Django web application.
+Getting Products - Learn how to retrieve and display product data in your Django application.
+
+Adding Bootstrap - Understand how to integrate Bootstrap into your Django project for responsive and stylish UI components.
+
+Loading Images - Explore how to manage and display images for products within your Django application.
+
+Adding Navbar - Learn to create and customize a navigation bar for your e-shop application to enhance user navigation.
+
+Extending HTML - Understand the concept of template inheritance in Django and how to extend HTML files for consistent layouts.
+
+Listing Category in Home Page - Discover how to display different product categories on the homepage of your e-shop application.
+
