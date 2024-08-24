@@ -149,6 +149,9 @@ AWS LightSail Hosting - Hosting a Django eShop app with AWS LightSail.
 <h3>Sidebar:</h3>
 ![image](https://github.com/user-attachments/assets/c8fde3fe-7fdf-4ead-afdc-3fba66b1db66)
 
+<h3>Your Orders:</h3>
+![image](https://github.com/user-attachments/assets/6df4fbd4-a9ea-4f39-89cf-52eafef2651d)
+
 
 
 
