@@ -18,3 +18,14 @@ Key Insights<br>
 💡 User Management: Creating superusers and managing user roles ensures security and proper access control within the application.<br>
 ⚙️ Database Management: Regular migrations and updates to the database reflect changes in the application, keeping data consistent and up-to-date.<br>
 🎨 Product Categories: Organizing products into categories enhances user experience and simplifies navigation in the application.<br>
+Creating Product From Admin Site - Learn how to add and manage products directly from the Django admin interface.
+
+Creating Category Model - Understand how to create a category model to organize products into different categories.
+
+Foreign Key - Product & Category - Explore how to establish a relationship between products and categories using a foreign key.
+
+Showing Table View in Admin Site - Discover how to display data in a tabular format within the Django admin site.
+
+Handling Request - Learn how to manage and respond to different types of HTTP requests in a Django application.
+
+Serving HTML Files - Understand the process of serving static HTML files in a Django web application.
