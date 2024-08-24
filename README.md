@@ -2,9 +2,9 @@
 Key Insights<br>
 📚<h2> Project Initialization:</h2> Starting a Django project involves creating a virtual environment to isolate project dependencies, ensuring consistency across development and production environments. This practice prevents conflicts with other projects.
 <br>
-⚙️ Importance of Virtual Environments: Utilizing virtual environments allows developers to manage package versions effectively. This ensures that applications run with the same dependencies, reducing the risk of compatibility issues in the future.<br>
+⚙️ <h2> Importance of Virtual Environments:</h2> Utilizing virtual environments allows developers to manage package versions effectively. This ensures that applications run with the same dependencies, reducing the risk of compatibility issues in the future.<br>
 <br>
-📝 Project Structure: When creating a new Django project, it is crucial to understand the structure, including where settings and application files reside. This aids in maintaining organization and clarity as the project scales.<br>
+📝 <h2> Project Structure:</h2>  When creating a new Django project, it is crucial to understand the structure, including where settings and application files reside. This aids in maintaining organization and clarity as the project scales.<br>
 <br>
 📦 Dependency Management: Keeping track of which packages are installed and their versions is vital. This can be done using a requirements file, making it easier to replicate the environment later or on different machines.<br>
 <br>
