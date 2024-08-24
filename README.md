@@ -1,28 +1,28 @@
 # Django_Eshop
 Key Insights<br>
-📚<h2> Project Initialization:</h2> Starting a Django project involves creating a virtual environment to isolate project dependencies, ensuring consistency across development and production environments. This practice prevents conflicts with other projects.
+<h2>📚 Project Initialization:</h2> Starting a Django project involves creating a virtual environment to isolate project dependencies, ensuring consistency across development and production environments. This practice prevents conflicts with other projects.
 <br>
-⚙️ <h2> Importance of Virtual Environments:</h2> Utilizing virtual environments allows developers to manage package versions effectively. This ensures that applications run with the same dependencies, reducing the risk of compatibility issues in the future.<br>
+<h2> ⚙️ Importance of Virtual Environments:</h2> Utilizing virtual environments allows developers to manage package versions effectively. This ensures that applications run with the same dependencies, reducing the risk of compatibility issues in the future.<br>
 <br>
-📝 <h2> Project Structure:</h2>  When creating a new Django project, it is crucial to understand the structure, including where settings and application files reside. This aids in maintaining organization and clarity as the project scales.<br>
+ <h2> 📝 Project Structure:</h2>  When creating a new Django project, it is crucial to understand the structure, including where settings and application files reside. This aids in maintaining organization and clarity as the project scales.<br>
 <br>
-📦<h2>Dependency Management:</h2> Keeping track of which packages are installed and their versions is vital. This can be done using a requirements file, making it easier to replicate the environment later or on different machines.<br>
+<h2>📦 Dependency Management:</h2> Keeping track of which packages are installed and their versions is vital. This can be done using a requirements file, making it easier to replicate the environment later or on different machines.<br>
 <br>
-🔄<h2>Creating Multiple Applications:</h2>  A comprehensive project may require multiple apps (e.g., store, orders, profiles). Understanding how to create and manage these apps within a single project is essential for modular development.<br>
+<h2> 🔄 Creating Multiple Applications:</h2>  A comprehensive project may require multiple apps (e.g., store, orders, profiles). Understanding how to create and manage these apps within a single project is essential for modular development.<br>
 <br>
-🔍 <h2> Command-Line Proficiency:</h2>Familiarity with terminal commands is necessary for Django development. This includes commands for running servers, managing apps, and installing packages, which helps streamline the development process.<br>
+<h2>🔍  Command-Line Proficiency:</h2>Familiarity with terminal commands is necessary for Django development. This includes commands for running servers, managing apps, and installing packages, which helps streamline the development process.<br>
 <br>
-🌐 <h2>Local Development:</h2>  Running the application on a local server allows for immediate testing and iteration. Developers should regularly check the application’s functionality in a web browser to ensure that everything works as intended.<br>
+<h2>🌐 Local Development:</h2>  Running the application on a local server allows for immediate testing and iteration. Developers should regularly check the application’s functionality in a web browser to ensure that everything works as intended.<br>
 
 <h2>📈 Modeling Structure:</h2>  Understanding models is crucial for organizing data in an application. They represent real-world entities, making data management efficient.<br>
 
-🔍 Admin Panel Importance: The admin panel is a powerful tool for managing users and products, essential for any e-commerce platform’s functionality.<br>
+<h2>🔍 Admin Panel Importance:</h2>  The admin panel is a powerful tool for managing users and products, essential for any e-commerce platform’s functionality.<br>
 
-💡 User Management: Creating superusers and managing user roles ensures security and proper access control within the application.<br>
+<h2>💡 User Management: </h2> Creating superusers and managing user roles ensures security and proper access control within the application.<br>
 
-⚙️ Database Management: Regular migrations and updates to the database reflect changes in the application, keeping data consistent and up-to-date.<br>
+<h2>⚙️ Database Management:  </h2> Regular migrations and updates to the database reflect changes in the application, keeping data consistent and up-to-date.<br>
 
-🎨 Product Categories: Organizing products into categories enhances user experience and simplifies navigation in the application.<br>
+<h2>🎨 Product Categories: </h2> Organizing products into categories enhances user experience and simplifies navigation in the application.<br>
 
 Creating Product From Admin Site - Learn how to add and manage products directly from the Django admin interface.
 
