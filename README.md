@@ -126,4 +126,8 @@ Middleware Activation - Activating middleware within Django applications.
 
 AWS LightSail Hosting - Hosting a Django eShop app with AWS LightSail.
 
+<h1>Final Output:</h1>
+<h2>running Server:</h2>![image](https://github.com/user-attachments/assets/8b7c3668-ded9-48d5-980e-39849923f312)
+
+
 
