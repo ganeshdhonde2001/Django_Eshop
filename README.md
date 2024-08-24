@@ -12,4 +12,9 @@ Key Insights<br>
 <br>
 🔍 Command-Line Proficiency: Familiarity with terminal commands is necessary for Django development. This includes commands for running servers, managing apps, and installing packages, which helps streamline the development process.<br>
 <br>
-🌐 Local Development: Running the application on a local server allows for immediate testing and iteration. Developers should regularly check the application’s functionality in a web browser to ensure that everything works as intended.
+🌐 Local Development: Running the application on a local server allows for immediate testing and iteration. Developers should regularly check the application’s functionality in a web browser to ensure that everything works as intended.<br>
+📈 Modeling Structure: Understanding models is crucial for organizing data in an application. They represent real-world entities, making data management efficient.<br>
+🔍 Admin Panel Importance: The admin panel is a powerful tool for managing users and products, essential for any e-commerce platform’s functionality.<br>
+💡 User Management: Creating superusers and managing user roles ensures security and proper access control within the application.<br>
+⚙️ Database Management: Regular migrations and updates to the database reflect changes in the application, keeping data consistent and up-to-date.<br>
+🎨 Product Categories: Organizing products into categories enhances user experience and simplifies navigation in the application.<br>
