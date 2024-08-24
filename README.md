@@ -130,7 +130,24 @@ AWS LightSail Hosting - Hosting a Django eShop app with AWS LightSail.
 <h2>running Server:</h2>![image](https://github.com/user-attachments/assets/8b7c3668-ded9-48d5-980e-39849923f312)
 
 <h2>Result:</h2>
+
+<h3>Homepage:</h3>
 ![image](https://github.com/user-attachments/assets/326225c9-f07e-421d-8b7b-056a906d6a43)
+
+<h3>Cart:</h3>
+![image](https://github.com/user-attachments/assets/6e30fe47-7634-4207-b77f-8e9d7dba2630)
+
+<h3>Checkout Form:</h3>
+![image](https://github.com/user-attachments/assets/e7186944-1427-4ed7-bb94-b344bdaa8d1a)
+
+<h3>Signup Form:</h3>
+![image](https://github.com/user-attachments/assets/98ca3b8e-394d-41b9-82db-b3273d913a1e)
+
+<h3>login Form:</h3>
+![image](https://github.com/user-attachments/assets/6e854e22-1c52-49da-acb6-58e3d6810a54)
+
+<h3>Sidebar:</h3>
+![image](https://github.com/user-attachments/assets/c8fde3fe-7fdf-4ead-afdc-3fba66b1db66)
 
 
 
