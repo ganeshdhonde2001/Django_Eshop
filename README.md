@@ -1,6 +1,6 @@
 # Django_Eshop
 Key Insights<br>
-📚 Project Initialization: Starting a Django project involves creating a virtual environment to isolate project dependencies, ensuring consistency across development and production environments. This practice prevents conflicts with other projects.
+📚<h2> Project Initialization:</h2> Starting a Django project involves creating a virtual environment to isolate project dependencies, ensuring consistency across development and production environments. This practice prevents conflicts with other projects.
 <br>
 ⚙️ Importance of Virtual Environments: Utilizing virtual environments allows developers to manage package versions effectively. This ensures that applications run with the same dependencies, reducing the risk of compatibility issues in the future.<br>
 <br>
@@ -109,4 +109,21 @@ Fetching Cart Products: Learn how to retrieve and display the products stored in
 Showing Products in Cart Page: Explore how to build and display a comprehensive cart page that shows all products added to the cart along with their details.
 
 Filter for Currency: Implement a currency filter to display prices in different currencies, enhancing the app's usability for a global audience.
+
+Place Order - Implementing order placement functionality.
+
+Check Out Form - Creating and managing a checkout form.
+
+List Orders - Listing all orders made on the eShop.
+
+Adding Order Status - Adding status tracking for orders.
+
+Stripe Payment Gateway Integration - Integrating Stripe for payments.
+
+Show Cart Item Count in NavBar - Displaying cart item count in the navigation bar.
+
+Middleware Activation - Activating middleware within Django applications.
+
+AWS LightSail Hosting - Hosting a Django eShop app with AWS LightSail.
+
 
