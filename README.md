@@ -60,3 +60,33 @@ Submitting Form - Understand how to handle form submissions and process the data
 
 Creating a Customer - Discover how to create a new customer entry in the database after form submission.
 
+Form Validations: Learn how to implement form validations in Django to ensure that user inputs meet the required criteria.
+
+Filling Form After Error: Understand how to retain user input in a form even after an error occurs, making the user experience smoother.
+
+Redirecting to Home Page: Discover how to properly redirect users to the home page after completing an action or a successful form submission.
+
+Email Validation & Unique Email: Learn how to validate email addresses and ensure that each email used in the application is unique.
+
+Password Hashing: Explore the process of securely hashing passwords in Django to enhance the security of user accounts.
+
+Refactoring Code: Learn how to improve the structure and readability of your code by refactoring, making it cleaner and easier to maintain.
+
+Login Page: Understand how to create a login page for your e-shop application, allowing users to authenticate and access their accounts.
+
+Customer Login: Explore the process of implementing a customer login system, enabling users to log in and manage their profiles.
+
+Class-Based View: Discover the use of class-based views in Django to handle requests with more reusable and organized code.
+
+Creating Views in Separate File: Learn how to organize your views by creating them in separate files, improving code modularity.
+
+Session Management - Part 1: Understand how to manage user sessions in Django, allowing you to store and retrieve user-specific data across requests.
+
+Session Management - Part 2: Continue exploring session management, delving deeper into its use and best practices.
+
+Cart Functionality - Part 1: Begin implementing the shopping cart functionality, allowing users to add products to their cart.
+
+Cart Functionality - Part 2: Continue developing the cart functionality, enhancing the user experience by adding more features.
+
+Cart Functionality - Part 3: Complete the cart implementation by using filters to manage and display cart items efficiently.
+
