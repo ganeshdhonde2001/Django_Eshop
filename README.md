@@ -80,23 +80,23 @@ Class-Based View: Discover the use of class-based views in Django to handle requ
 
 Creating Views in Separate File: Learn how to organize your views by creating them in separate files, improving code modularity.
 
-Session Management - Part 1: Understand how to manage user sessions in Django, allowing you to store and retrieve user-specific data across requests.
+Session Management - 1: Understand how to manage user sessions in Django, allowing you to store and retrieve user-specific data across requests.
 
-Session Management - Part 2: Continue exploring session management, delving deeper into its use and best practices.
+Session Management - 2: Continue exploring session management, delving deeper into its use and best practices.
 
-Cart Functionality - Part 1: Begin implementing the shopping cart functionality, allowing users to add products to their cart.
+Cart Functionality - 1: Begin implementing the shopping cart functionality, allowing users to add products to their cart.
 
-Cart Functionality - Part 2: Continue developing the cart functionality, enhancing the user experience by adding more features.
+Cart Functionality - 2: Continue developing the cart functionality, enhancing the user experience by adding more features.
 
-Cart Functionality - Part 3: Complete the cart implementation by using filters to manage and display cart items efficiently.
+Cart Functionality -  3: Complete the cart implementation by using filters to manage and display cart items efficiently.
 
-Cart Functionality - Part 4 | Quantity Design: Learn how to design and implement quantity controls in the shopping cart, allowing users to specify the quantity of products they want to purchase.
+Cart Functionality -  4 | Quantity Design: Learn how to design and implement quantity controls in the shopping cart, allowing users to specify the quantity of products they want to purchase.
 
-Cart Functionality - Part 5 | Quantity Buttons: Explore how to add and style quantity buttons in the cart, enabling users to easily adjust the number of items.
+Cart Functionality -  5 | Quantity Buttons: Explore how to add and style quantity buttons in the cart, enabling users to easily adjust the number of items.
 
-Cart Functionality - Part 6 | Showing Quantity: Understand how to display the selected quantity of products in the cart, ensuring users can see their choices.
+Cart Functionality - 6 | Showing Quantity: Understand how to display the selected quantity of products in the cart, ensuring users can see their choices.
 
-Cart Functionality - Part 7 | Quantity Plus Minus: Implement plus and minus buttons to allow users to increment or decrement the quantity of products directly from the cart.
+Cart Functionality - 7 | Quantity Plus Minus: Implement plus and minus buttons to allow users to increment or decrement the quantity of products directly from the cart.
 
 Return to Same Product After Adding to Cart: Learn how to redirect users back to the product page after they have added an item to their cart, enhancing the shopping experience.
 
